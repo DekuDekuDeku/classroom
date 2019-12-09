@@ -1,0 +1,16 @@
+div.hello{
+    font-family: 12pt verdana;
+    color: green;  
+   } 
+   div.test{
+   font-family: 12pt italic, monospace;
+    color: green;     
+   }
+   
+#test{
+     color: green; 
+     text-decoration: underline;
+}
+div.hello test eee {
+    color:red
+}
